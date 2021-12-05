@@ -1,0 +1,15 @@
+{
+  "name": "hello-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out/helloworld.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
